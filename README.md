@@ -1,6 +1,6 @@
-# 📊 Data Cleaning and Combining Data in Excel – Project 1
+# 📊 Project: Data Cleaning and Combining Data in Excel
 
-![Excel Banner](https://user-images.githubusercontent.com/your-image-url/banner.png)
+
 
 ---
 
